@@ -51,16 +51,20 @@ Garante que o site funcione bem em diferentes dispositivos sem precisar programa
 
 Explicação bloco a bloco
 
-1- <!DOCTYPE html> e <html lang="pt-BR">
+1- 
+<!DOCTYPE html> e <html lang="pt-BR">
 Define o tipo do documento como HTML5 e o idioma da página como português do Brasil.
 
-2- <head>
+2- 
+<head>
 Contém informações importantes para o navegador: codificação, título da página, links para estilos CSS (Bootstrap e personalizado).
 
-3- <body>
+3- 
+<body>
 Contém todo o conteúdo visível do site.
 
-4- <header>
+4- 
+<header>
 Cabeçalho fixo com fundo verde escuro, texto branco, que contém o título do site e o menu de navegação para as páginas principais.
 
 5- <nav> e <ul class="nav">
